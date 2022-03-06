@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="loguwant",
-    version="0.0.1",
+    version="0.0.2",
     author="Yash Goyal",
     author_email="yashgoyalcs@gmail.com",
     description="It is a Python package that enables you to log only what you want",
