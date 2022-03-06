@@ -35,4 +35,4 @@ def example_function():
 
 # output
 
-![output](output.png "output")
+![output](output.png?raw=True "output")
