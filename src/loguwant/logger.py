@@ -44,7 +44,7 @@ def get_log_depth():
 
 def get_logger():
     """
-    It creates logger, using which you can see the logs of the models written by you separately
+    It creates logger, using which you can see the logs of the modules written by you separately
     :return:
     logger: Logger Object
     """
