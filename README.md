@@ -35,4 +35,4 @@ def example_function():
 
 # output
 
-![output](output.png?raw=True "output")
+![output](https://raw.githubusercontent.com/yashgoyal07/loguwant/master/output.png "output")
